@@ -1,0 +1,14 @@
+# Utilities and Banking
+## Chase (Credit Cards)
+Call 1-800-432-3117 and request a packet, which they’ll mail.
+## Amazon Storecard
+Fax a copy of your ID, Storecard account number, and phone number to 866-433-6076
+## Spectrum Internet/Cable
+Fax “Customer Change Form and Agreement” with copies of new ID to 980-233-9169
+## Duke Energy
+Fax a copy of the court order, a copy of your ID, and your account number to 800-419-5473
+## T-mobile
+You can change your name using the T-Mobile web portal
+## Comenity-based store cards
+### Torrid
+Call 1-800-853-2921, and let them know you changed your name. They can also update any other Comenity-based store cards in the same call.
