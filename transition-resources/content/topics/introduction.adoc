@@ -1,0 +1,4 @@
+[id="introduction"]
+= Introduction
+
+An open collection of transition-related resources maintained by the Red Hat Pride Community. Contributions welcome!

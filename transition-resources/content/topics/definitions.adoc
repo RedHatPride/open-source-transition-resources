@@ -1,0 +1,4 @@
+[id="definitions"]
+= Definitions
+
+Opensource Transition Guide Definitions
