@@ -1,0 +1,9 @@
+// The master.adoc file for The Opensource Transition Resources
+
+include::common-content/attributes.adoc[]
+
+
+// Book Title
+= OpenSource Transition Resources
+
+include::content/transition-resources.adoc[]

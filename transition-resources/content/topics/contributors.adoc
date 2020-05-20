@@ -1,0 +1,8 @@
+[id="contributors"]
+= Contributors
+
+https://github.com/ashtondavis[Ashton Davis]
+
+https://github.com/codepoetsarah[Sarah Thornton]
+
+https://github.com/alliedevolder[Allie DeVolder]
