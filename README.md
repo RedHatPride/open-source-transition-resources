@@ -1,22 +1,23 @@
 # OpenSource Transition Resources Project Source Repository
 
-## Modular Documentation Reference Guide [![Build Status](https://travis-ci.org/redhat-documentation/modular-docs.svg?branch=master)](https://travis-ci.org/redhat-documentation/modular-docs)
+## Opensource Transition Resource Project [![Build Status](https://travis-ci.org/redhat-documentation/modular-docs.svg?branch=master)](https://travis-ci.org/redhat-documentation/modular-docs)
 
-OpenSource Transition Resources Reference Guide contains the essential information to start writing documentation in a modular way.
-You can view the latest build of the guide here:
+Opensource Transition Resource Guide is based off the modular docs project which is available on github.
 
 https://redhat-documentation.github.io/modular-docs/
 
-## Modular Documentation Template Files
+## Template Files
 
-Another deliverable for this project is the module templates for the various module types.
+Templates for the various module types are available from the modular docs repo.
 All the module template files for writing new modular content can be found here:
 
 https://github.com/redhat-documentation/modular-docs/tree/master/modular-docs-manual/files
 
 ## What is the Purpose of OpenSource Transition Resources Project?
 
-To provide documentation teams with a set of resources to assist them as they write user-driven content or convert their current documentation framework to a modular-based documentation framework.
+Provide information for transgender and non binary folk to find information in their location as well as
+walk through how to do things like, changing your gender marker on official documentation or what the law
+regarding gender is in your location.
 
 ## Why Are We Doing This?
 
@@ -32,7 +33,6 @@ This repository uses the following directory structure:
 
 ```
 .
-├── CONTRIBUTING.md (How do I contribute to this project?)
 ├── README.md (this file)
 ├── transition-resources/ (The guide)
     ├── README.md (the README file)
@@ -49,11 +49,11 @@ This repository uses the following directory structure:
 
 ## Contributing
 
-We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start contributing: [CONTRIBUTING](CONTRIBUTING.md).
+We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start contributing: [CONTRIBUTING](transition-resources/content/topics/contributing.adoc).
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under the [GNU General Public License](https://fsf.org/).
 
 ## Building the Books Locally
 
@@ -65,9 +65,9 @@ You can build the book locally using [AsciiDoctor](http://asciidoctor.org/docs/#
 
 ### Building OpenSource Transition Resources Reference Guide
 
-To build and view the document locally, run:
+To build and view the document locally, run the following scripts:
 
 ```
-$ asciidoctor modular-docs-manual/master.adoc
-$ <www-browser-of-choice> modular-docs-manual/master.html
+$ build-html.sh
+$ build-pdf.sh
 ```
