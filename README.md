@@ -2,7 +2,7 @@
 
 ## Opensource Transition Resource Project [![Build Status](https://travis-ci.org/redhat-documentation/modular-docs.svg?branch=master)](https://travis-ci.org/redhat-documentation/modular-docs)
 
-Opensource Transition Resource Guide is based off the modular docs project which is available on github.
+The Opensource Transition Resource Guide is based off the modular docs project which is available on github.
 
 https://redhat-documentation.github.io/modular-docs/
 
@@ -25,7 +25,7 @@ To help the documentation teams become more agile with their documentation. This
 
 ## Any Suggestions or Questions?
 
-Please submit an [issue](https://github.com/redhat-documentation/modular-docs/issues) to this project.
+Please submit an [issue](https://github.com/AshtonDavis/open-source-transition-resources/issues) to this project.
 
 ## Repository Structure
 
@@ -71,3 +71,4 @@ To build and view the document locally, run the following scripts:
 $ build-html.sh
 $ build-pdf.sh
 ```
+Alternatively, if you use VS Code, you can build the HTML from the "Run Menu"
