@@ -4,9 +4,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Build HTML",
+      "label": "Transition Resources: Build HTML",
       "type": "shell",
-      "command": "build-html.sh"
+      "command": "./build-html.sh"
     }
   ]
 }
