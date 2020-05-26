@@ -1,6 +1,6 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "OpenSource Transition Resources Guide"
 theme         = "roxo"
 summarylength = 25
 
@@ -33,19 +33,19 @@ summarylength = 25
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "OpenSource list of transition resources"
+  author = "Allie DeVolder"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/myykjpje"
-  
+
   # Navbar Action Button
   [params.navAction]
     status  = true
     name    = "Get in touch"
     url     = "contact"
-  
+
 
   # Banner Section
   [params.banner]
