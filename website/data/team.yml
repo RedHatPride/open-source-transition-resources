@@ -1,26 +1,26 @@
 enable  : true
 title   : Contributors.
 members  :
-  - image       : images/team/team-member-one.jpg
+  - image       : images/team/allie.jpg
     name        : Allie DeVolder
     designation : Red Hat
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
+  - image       : images/team/ashton.jpg
     name        : Ashton Davis
     designation : Red Hat
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
+  - image       : images/team/sarah.jpg
     name        : Sarah Thornton
     designation : Technical
     linkedIn    : https://www.linkedin.com/
 
-  - image       : images/team/team-member-four.jpg
+  - image       : images/team/antigonie.jpg
     name        : Antigonie Bradshaw
     designation : Australia
     medium      : https://www.medium.com/
