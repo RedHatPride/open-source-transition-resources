@@ -1,0 +1,3 @@
+[submodule "website/themes/roxo"]
+	path = website/themes/roxo
+	url = git@github.com:StaticMania/roxo-hugo.git
