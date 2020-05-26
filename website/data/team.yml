@@ -26,3 +26,8 @@ members  :
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+
+  - image       : images/team/antigonie.jpg
+    name        : JP Sherman
+    designation : SEO
+    linkedIn    : https://www.linkedin.com/
