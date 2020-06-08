@@ -1,9 +1,19 @@
+[id="book"]
+= Opensource Transition Resources
 // The master.adoc file for The Opensource Transition Resources
 
 include::common-content/attributes.adoc[]
 
+include::content/topics/introduction.adoc[leveloffset=+1]
 
-// Book Title
-= OpenSource Transition Resources
+include::content/topics/contributing.adoc[leveloffset=+1]
 
 include::content/transition-resources.adoc[]
+
+// Appendices
+[appendix]
+include::content/topics/definitions.adoc[leveloffset=+1]
+
+// Contributors
+[appendix]
+include::content/topics/contributors.adoc[leveloffset=+1]

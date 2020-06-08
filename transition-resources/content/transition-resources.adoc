@@ -1,8 +1,4 @@
 
-include::topics/introduction.adoc[leveloffset=+1]
-
-include::topics/contributing.adoc[leveloffset=+1]
-
 // Crisis Hotlines
 include::topics/crisis/hotlines.adoc[leveloffset=+1]
 
@@ -10,15 +6,22 @@ include::topics/crisis/hotlines.adoc[leveloffset=+1]
 include::topics/records/uk-public-record.adoc[leveloffset=+1]
 include::topics/records/us-public-record.adoc[leveloffset=+1]
 
+// Healthcare
+include::topics/health/health.adoc[leveloffset=+1]
+
+// Employment
+include::topics/employment/employment.adoc[leveloffset=+1]
+
+// Financial
+include::topics/financial/financial.adoc[leveloffset=+1]
+
+// Housing
+include::topics/housing/housing.adoc[leveloffset=+1]
+
+// Legal
+include::topics/legal/legal.adoc[leveloffset=+1]
+
 // Utilities
 include::topics/internet-accounts.adoc[leveloffset=+1]
 include::topics/utilities/us-utilities.adoc[leveloffset=+1]
-
-// Appendices
-[appendix]
-include::topics/definitions.adoc[leveloffset=+1]
-
-// Contributors
-[appendix]
-include::topics/contributors.adoc[leveloffset=+1]
 
