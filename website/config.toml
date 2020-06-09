@@ -53,10 +53,10 @@ summarylength = 25
     background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "OpenSource Transition Resource Guide"
     tagline               = "Information for transgender and non-binary folk."
-    primary_button        = "See Our Works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
-    secondary_button_url  = "contact"
+    primary_button        = "Online"
+    primary_button_url    = "/guide/html/"
+    secondary_button      = "PDF"
+    secondary_button_url  = "/guide/pdf/transgender-resources.pdf"
 
   [params.portfolio]
     enable    = true
