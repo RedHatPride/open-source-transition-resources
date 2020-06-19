@@ -6,8 +6,6 @@ include::common-content/attributes.adoc[]
 
 include::content/topics/introduction.adoc[leveloffset=+1]
 
-include::content/topics/contributing.adoc[leveloffset=+1]
-
 include::content/transition-resources.adoc[]
 
 // Appendices
@@ -17,3 +15,7 @@ include::content/topics/definitions.adoc[leveloffset=+1]
 // Contributors
 [appendix]
 include::content/topics/contributors.adoc[leveloffset=+1]
+
+// Contributing
+[appendix]
+include::content/topics/contributing.adoc[leveloffset=+1]
