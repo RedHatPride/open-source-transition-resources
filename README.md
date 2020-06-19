@@ -68,7 +68,6 @@ You can build the book locally using [AsciiDoctor](http://asciidoctor.org/docs/#
 To build and view the document locally, run the following scripts:
 
 ```
-$ build-html.sh
-$ build-pdf.sh
+$ publish.sh
 ```
-Alternatively, if you use VS Code, you can build the HTML from the "Run Menu"
+Alternatively, if you use VS Code, you can build the HTML from the "Run Menu". This will build the master docs list along with country specific docs. They are automatically placed under the website/static/guide folder. The website will link to the master pdf or the html version. Country specific pages will be available under a download link off the main page of the site.
