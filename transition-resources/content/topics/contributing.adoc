@@ -8,7 +8,7 @@ Send an email to OpenSource Transition Resources Project mailing list (ccs-mod-d
 ## Pre-requisites
 STEP 1 - Asciidoc and Hugo
 
-    Install Asciidoc and Asciidoctor, the guide is written in asciidoc and published using Asciidoctor and Asciidoctor-pdf
+Install Asciidoc and Asciidoctor, the guide is written in asciidoc and published using Asciidoctor and Asciidoctor-pdf
 
 ## Configuring a Local Copy
 
