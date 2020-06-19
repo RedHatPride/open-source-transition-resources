@@ -5,6 +5,11 @@
 
 Send an email to OpenSource Transition Resources Project mailing list (ccs-mod-docs@redhat.com) asking nicely to be given access to OpenSource Transition Resources Project on GitHub. Please give us your GitHub username and use the following subject line: REQUESTING ACCESS.
 
+## Pre-requisites
+STEP 1 - Asciidoc and Hugo
+
+    Install Asciidoc and Asciidoctor, the guide is written in asciidoc and published using Asciidoctor and Asciidoctor-pdf
+
 ## Configuring a Local Copy
 
 STEP 1 - Clone the GitHub project locally:
@@ -15,6 +20,11 @@ STEP 2 - Verify the GitHub project status:
 
     cd open-source-transition-resources
     git status
+    
+STEP 3 - Enable the submodules, for the website theme
+
+    git submodule init
+    git submodule update    
 
 ## Contributing Changes
 
