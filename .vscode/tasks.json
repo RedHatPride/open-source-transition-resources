@@ -6,7 +6,7 @@
     {
       "label": "Transition Resources: Build HTML",
       "type": "shell",
-      "command": "./build-html.sh"
+      "command": "./publish.sh"
     }
   ]
 }
