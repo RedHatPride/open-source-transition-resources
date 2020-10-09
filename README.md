@@ -39,7 +39,7 @@ This repository uses the following directory structure:
 ├── README.md (this file)
 ├── transition-resources/ (The guide)
     ├── README.md (the README file)
-    ├── master.adoc (master layout of the book)
+    ├── index.adoc (source for layout of the book)
     ├── content/
         ├── topics/
             └── *.adoc (AsciiDoc files)
@@ -60,7 +60,7 @@ This work is licensed under the [GNU General Public License](https://fsf.org/).
 
 ## Building the Books Locally
 
-When you make changes to these books, it is a good practice to do a local test build to verify the book builds successfully and renders as you expect before you submit the merge request back to upstream master.
+When you make changes to these books, it is a good practice to do a local test build to verify the book builds successfully and renders as you expect before you submit the merge request back to upstream primary branch.
 
 ### Configuring the Build Environment
 

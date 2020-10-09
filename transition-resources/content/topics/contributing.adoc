@@ -45,8 +45,8 @@ STEP 3 - Add and commit your changes:
 
  Example:
 
-    git add master.adoc
-    git commit -m -s "Updated the master.adoc file"
+    git add index.adoc
+    git commit -m -s "Updated the index.adoc file"
 
 STEP 4 - Push changes to the remote GitHub repository:
 
