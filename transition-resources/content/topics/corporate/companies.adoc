@@ -1,0 +1,5 @@
+[id="companies"]
+= Internal Corporate Guides
+
+// Red Hat
+include::redhat.adoc[leveloffset=+1]
