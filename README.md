@@ -3,6 +3,9 @@
 ## What is this?
 A gender transition is a difficult and confusing process, and finding vital resources can be even harder. In addition to the social, medical, personal, and interpersonal issues transitions can present, legal and practical changes are often frustrating, obtuse, and overwhelming. To help, we’ve created an open source documentation project: The Open Source Transition Resource List. The purpose is to provide clear and easy access to information such as: how to legally change your name, how to navigate changes for various online tools, communities, and networks and how to find local and regional specific instruction. It is our belief at Red Hat that the power of community can make a profound impact on its individual members. And the hope for this project is that those who come after us can transition gracefully and with great ease. Thank you for reading, learning, and helping us achieve this. 
 
+## Download the latest release
+If you just want to download the latest version of the guide or view a version for your region, visit the [Releases page](https://github.com/AshtonDavis/open-source-transition-resources/tree/main/releases)
+
 ## Opensource Transition Resource Project
 
 The Opensource Transition Resource Guide is based off the modular docs project which is available on github.
