@@ -64,7 +64,7 @@ STEP 6 - Everyone on the project team will review the merge request and add comm
 
 You can build the book locally using [AsciiDoctor](http://asciidoctor.org/docs/#get-started-with-asciidoctor).
 
-## Building OpenSource Transition Resources Reference Guide
+## Building the PDF's
 
 To build and view the document locally, run the following scripts:
 
