@@ -1,6 +1,14 @@
 [id="contributing"]
 = How to Contribute
 
+## Suggesting edits online
+
+If you think of something that can be added but don't want to get into editing docs, you can submit a suggested edit as a GitHub "issue", and one the maintainers will update the code and PDFs.
+You will need a free GitHub account to make suggestions.
+
+You can quickly create a new suggestion by filling out the form here: https://github.com/AshtonDavis/open-source-transition-resources/issues/new/choose
+A suggestion "issue" is basically just an email. Please give your suggestion a title and describe how the content can be improved in the larger comment box.
+
 ## Request GitHub Project Access
 
 Send an email to OpenSource Transition Resources Project mailing list (ccs-mod-docs@redhat.com) asking nicely to be given access to OpenSource Transition Resources Project on GitHub. Please give us your GitHub username and use the following subject line: REQUESTING ACCESS.
@@ -20,11 +28,11 @@ STEP 2 - Verify the GitHub project status:
 
     cd open-source-transition-resources
     git status
-    
+
 STEP 3 - Enable the submodules, for the website theme
 
     git submodule init
-    git submodule update    
+    git submodule update
 
 ## Contributing Changes
 
@@ -72,4 +80,3 @@ To build and view the document locally, run the following script:
 $ publish.sh
 ```
 Alternatively, if you use VS Code, you can build the HTML from the "Run Menu". This will build the source docs list along with country specific docs. They are automatically placed under the website/static/guide folder. The website will link to the source pdf or the html version. Country specific pages will be available under a download link off the main page of the site.
-
