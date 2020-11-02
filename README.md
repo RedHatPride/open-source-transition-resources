@@ -48,21 +48,8 @@ This repository uses the following directory structure:
 
 ## Contributing
 
-We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start contributing: [CONTRIBUTING](transition-resources/content/topics/contributing.adoc).
+We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start contributing: [CONTRIBUTING](transition-resources/content/topics/contributing.adoc). Follow the guidelines on this page and you can build the docs locally.
 
 ## License
 
 This work is licensed under the [GNU General Public License](https://fsf.org/).
-
-### Configuring the Build Environment
-
-You can build the book locally using [AsciiDoctor](http://asciidoctor.org/docs/#get-started-with-asciidoctor).
-
-### Building OpenSource Transition Resources Reference Guide
-
-To build and view the document locally, run the following scripts:
-
-```
-$ publish.sh
-```
-Alternatively, if you use VS Code, you can build the HTML from the "Run Menu". This will build the source docs list along with country specific docs. They are automatically placed under the website/static/guide folder. The website will link to the source pdf or the html version. Country specific pages will be available under a download link off the main page of the site.
