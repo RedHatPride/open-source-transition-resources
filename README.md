@@ -12,13 +12,6 @@ The Opensource Transition Resource Guide is based off the modular docs project w
 
 https://redhat-documentation.github.io/modular-docs/
 
-## Template Files
-
-Templates for the various module types are available from the modular docs repo.
-All the module template files for writing new modular content can be found here:
-
-https://github.com/redhat-documentation/modular-docs/tree/master/modular-docs-manual/files
-
 ## What is the Purpose of OpenSource Transition Resources Project?
 
 Provide information for transgender and non binary folk to find information in their location as well as
