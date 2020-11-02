@@ -44,6 +44,8 @@ This repository uses the following directory structure:
     ├── images (image files)
     └── common-content
         └── attributes.adoc (common attributes)
+├── Website/ (Hugo Termplate and content for the website)
+└── releases (Latest Version of the guide - PDF)
 ```
 
 ## Contributing
