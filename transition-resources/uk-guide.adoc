@@ -12,7 +12,9 @@ include::content/topics/introduction.adoc[leveloffset=+1]
 
 == Financial
 
-== Health
+// Health Care
+== Online Voice Training Resources
+include::content/topics/health/vocal/online-vocal.adoc[leveloffset=+1]
 
 == Housing
 

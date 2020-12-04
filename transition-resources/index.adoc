@@ -8,6 +8,10 @@ include::content/topics/introduction.adoc[leveloffset=+1]
 
 include::content/transition-resources.adoc[]
 
+// Health Care
+== Online Voice Training Resources
+include::content/topics/health/vocal/online-vocal.adoc[leveloffset=+1]
+
 // Appendices
 [appendix]
 include::content/topics/definitions.adoc[leveloffset=+1]
