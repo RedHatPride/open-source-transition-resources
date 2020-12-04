@@ -1,5 +1,5 @@
 [id="about"]
-= Respectful / Conscious Language
+== Respectful / Conscious Language
 
 The story for non-cisgendered people throughout history is traumatic to say the least. While being conscious and respectful with language is always important, it's especially important to consider the continued trauma and violence that our words can inflict on people. This applies for all of us - of any gender identity and expression. 
 
@@ -19,7 +19,7 @@ I have had my pronouns in my signature for a number of years now. At some point 
 
 This normalization is what we want to aim for - to make it normal to announce pronouns. There are other reasons as well. My name, Ash, does not have a set societal gender association, and so I often am misgendered over electronic communication. Having my prounouns in my email signature has led to fewer of these situations. This is all that much more important to someone for whom repeated misgendering can be traumatic.
 
-= Terminologies to know
+== Terminologies to know
 
 * Transgender - Someone whose lived gender identity is different from that which they were assigned at birth. It is important to note that transgender does not always adhere to the gender binary - not everyone chooses he/him or she/her pronouns. They/them and other neutral pronouns are common in the trans community. A common shortening for Transgender is Trans. *Note*: Transexual is _not_ an acceptable term - it is to be avoided, and if possible, changed to transgender or another acceptable alternative.
 * Nonbinary - Someone whose lived gender identity does not fit into the gender binary, which is itself a unique expression. A common shortening of nonbinary is 'enby' or 'NB'.
