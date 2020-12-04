@@ -12,10 +12,6 @@ include::content/topics/crisis/au-hotlines.adoc[leveloffset=+1]
 // Changing your name
 include::content/topics/records/au-public-record.adoc[leveloffset=+1]
 
-== Social Media
-
-== Utilities
-
 // Appendices
 [appendix]
 include::content/topics/definitions.adoc[leveloffset=+1]
