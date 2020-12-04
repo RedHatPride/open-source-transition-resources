@@ -1,0 +1,27 @@
+[id="about"]
+= Respectful / Conscious Language
+
+The story for non-cisgendered people throughout history is traumatic to say the least. While being conscious and respectful with language is always important, it's especially important to consider the continued trauma and violence that our words can inflict on people. This applies for all of us - of any gender identity and expression. 
+
+== Pronouns - they're not just for other people
+
+=== Why are pronouns important? 
+Pronouns are important for clarity in communication. Because pronouns in many if not most languages have a gendered aspect, pronouns also carry a particularly personal connection. Pronouns are probably the most common way to `misgender` someone, and that is one of the most personally undercutting and demoralizing things non-cisgendered people deal with on a daily basis.
+
+=== So, how do I know people's pronouns?
+Ask! Normalize asking "Hey, what are your pronouns?", or introducing yourself with your pronouns. Especially if you _are_ cisgendered, being up-front with your pronouns helps to *normalize* the open exchange of pronouns, which in turn helps bring down the general stress and trauma of everyday communication.
+
+=== Pronouns and you: A story
+
+The contributor of this section (Ash Davis) has this story to share:
+
+I have had my pronouns in my signature for a number of years now. At some point along the way, Red Hat's CEO (Jim Whitehurst at the time) was sending company-wide emails with his own pronouns in his signature. My cis-gendered colleague messed me to ask what was significant about it, and why it was in my signature (and Jim's). I was able to explain how normalization is a form of harm reduction and one of the simplest ways to support the community. This interaction was precisely the reason that announcing pronouns is so important - people will ask, and a conversation can be had that may not otherwise. My colleague did add his pronouns to his signature, and still actively encourages others to do the same.
+
+This normalization is what we want to aim for - to make it normal to announce pronouns. There are other reasons as well. My name, Ash, does not have a set societal gender association, and so I often am misgendered over electronic communication. Having my prounouns in my email signature has led to fewer of these situations. This is all that much more important to someone for whom repeated misgendering can be traumatic.
+
+= Terminologies to know
+
+* Transgender - Someone whose lived gender identity is different from that which they were assigned at birth. It is important to note that transgender does not always adhere to the gender binary - not everyone chooses he/him or she/her pronouns. They/them and other neutral pronouns are common in the trans community. A common shortening for Transgender is Trans. *Note*: Transexual is _not_ an acceptable term - it is to be avoided, and if possible, changed to transgender or another acceptable alternative.
+* Nonbinary - Someone whose lived gender identity does not fit into the gender binary, which is itself a unique expression. A common shortening of nonbinary is 'enby' or 'NB'.
+* Genderfluid - Someone whose lived gender identity neither fits into the gender binary nor is firmly set.
+* Gender - A societal construct, historically based on biological sex assigned at birth, which implies reference to social and cultural differences rather than biological ones.
