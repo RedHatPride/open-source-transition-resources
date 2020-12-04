@@ -59,7 +59,7 @@ This repository uses the following directory structure:
 
 ## Contributing
 
-We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start contributing: [CONTRIBUTING](transition-resources/content/topics/contributing.adoc). Follow the guidelines on this page and you can build the docs locally.
+We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start [contributing](transition-resources/content/topics/contributing.adoc). Follow the guidelines on this page and you can build the docs locally.
 
 ## License
 
