@@ -8,22 +8,11 @@ include::content/topics/introduction.adoc[leveloffset=+1]
 
 == Crisis Hotlines
 
-== Employment
-
-== Financial
-
 == Healthcare
 include::content/topics/health/vocal/online-vocal.adoc[leveloffset=+1]
 
-== Housing
-
-== Legal
-
-== Records
-
-== Social Media
-
-== Utilities
+== Companies
+include::content/topics/corporate/companies.adoc[leveloffset=+1]
 
 // Appendices
 [appendix]
