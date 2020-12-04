@@ -1,5 +1,6 @@
 
 == Crisis Hotlines
+include::topics/crisis/intro.adoc[leveloffset=+2]
 include::topics/crisis/us-hotlines.adoc[leveloffset=+2]
 include::topics/crisis/uk-hotlines.adoc[leveloffset=+2]
 include::topics/crisis/au-hotlines.adoc[leveloffset=+2]

@@ -7,6 +7,7 @@ include::common-content/attributes.adoc[]
 include::content/topics/introduction.adoc[leveloffset=+1]
 
 == Crisis Hotlines
+include::content/topics/crisis/intro.adoc[leveloffset=+2]
 include::content/topics/crisis/uk-hotlines.adoc[leveloffset=+2]
 
 == Healthcare
