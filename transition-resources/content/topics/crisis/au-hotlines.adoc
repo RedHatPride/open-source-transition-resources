@@ -1,5 +1,5 @@
-[id="crisis"]
-= Crisis Hotlines
+[id="au-crisis"]
+= Australia
 
 
 ## https://qlife.org.au/[Qlife]

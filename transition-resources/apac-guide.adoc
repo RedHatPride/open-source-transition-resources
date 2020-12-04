@@ -1,19 +1,23 @@
 [id="book"]
-= APAC Opensource Transition Resources
+= APAC Opensource Gender Transition Resources
 // The index.adoc file for The Opensource Transition Resources
 
 include::common-content/attributes.adoc[]
 
 include::content/topics/introduction.adoc[leveloffset=+1]
 
-// Crisis Hotlines
-include::content/topics/crisis/au-hotlines.adoc[leveloffset=+1]
+== Crisis Hotlines
+include::content/topics/crisis/intro.adoc[leveloffset=+2]
+include::content/topics/crisis/au-hotlines.adoc[leveloffset=+2]
 
 == Health Care
 include::content/topics/health/vocal/online-vocal.adoc[leveloffset=+1]
 
 // Changing your name
 include::content/topics/records/au-public-record.adoc[leveloffset=+1]
+
+// Utilities
+include::content/topics/internet-accounts.adoc[leveloffset=+1]
 
 // Appendices
 [appendix]

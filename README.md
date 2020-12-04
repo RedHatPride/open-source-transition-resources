@@ -13,11 +13,11 @@ To help, we’ve created an open source documentation project. The purpose is to
 It is our belief at Red Hat that the power of community can make a profound impact on its individual members. And the hope for this project is that those who come after us can transition gracefully and with great ease. Thank you for reading, learning, and helping us achieve this. Please consider contributing!
 
 ## Download the latest release
-If you just want to download the latest version of the guide or view a version for your region, visit the [Releases page](https://github.com/AshtonDavis/open-source-transition-resources/tree/main/releases)
+If you want to download the latest version of the guide or view a version for your region, visit the [Releases page](https://github.com/AshtonDavis/open-source-transition-resources/tree/main/releases)
 
 ## Opensource Transition Resource Project
 
-The Opensource Transition Resource Guide is based off the modular docs project which is available on github.
+The Opensource Transition Resource Guide is built on the modular docs project which is available on github. The website uses Hugo and Asciidoc.
 
 https://redhat-documentation.github.io/modular-docs/
 
@@ -35,7 +35,7 @@ To help the LGBTQ+ community become more agile with creating documentation. This
 
 Please submit an [issue](https://github.com/AshtonDavis/open-source-transition-resources/issues) to this project.
 
-## Repository Structure
+## Directory Structure
 
 This repository uses the following directory structure:
 
@@ -59,7 +59,7 @@ This repository uses the following directory structure:
 
 ## Contributing
 
-We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start contributing: [CONTRIBUTING](transition-resources/content/topics/contributing.adoc). Follow the guidelines on this page and you can build the docs locally.
+We welcome contributions from everyone who feels they have something of value that all of the community can benefit from. Follow these instructions to start [contributing](transition-resources/content/topics/contributing.adoc). Follow the guidelines on this page and you can build the docs locally.
 
 ## License
 
