@@ -35,7 +35,7 @@ To help the LGBTQ+ community become more agile with creating documentation. This
 
 Please submit an [issue](https://github.com/AshtonDavis/open-source-transition-resources/issues) to this project.
 
-## Repository Structure
+## Directory Structure
 
 This repository uses the following directory structure:
 
