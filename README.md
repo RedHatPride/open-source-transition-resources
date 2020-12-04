@@ -13,7 +13,7 @@ To help, we’ve created an open source documentation project. The purpose is to
 It is our belief at Red Hat that the power of community can make a profound impact on its individual members. And the hope for this project is that those who come after us can transition gracefully and with great ease. Thank you for reading, learning, and helping us achieve this. Please consider contributing!
 
 ## Download the latest release
-If you just want to download the latest version of the guide or view a version for your region, visit the [Releases page](https://github.com/AshtonDavis/open-source-transition-resources/tree/main/releases)
+If you want to download the latest version of the guide or view a version for your region, visit the [Releases page](https://github.com/AshtonDavis/open-source-transition-resources/tree/main/releases)
 
 ## Opensource Transition Resource Project
 
