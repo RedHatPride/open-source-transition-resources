@@ -1,4 +1,4 @@
-# Download the Opensource Gender Transition Guide
+# Opensource Gender Transition Guide (PDF)
 
 * [Gender Transition Guide](https://github.com/AshtonDavis/open-source-transition-resources/raw/main/releases/transgender-resources.pdf)
 
