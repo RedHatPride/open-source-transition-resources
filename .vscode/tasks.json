@@ -4,9 +4,14 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Transition Resources: Build Guide",
+      "label": "Transition Resources: Build PDF",
       "type": "shell",
       "command": "./publish.sh"
     }
+        {
+          "label": "Transition Resources: Start Hugo Server",
+          "type": "shell",
+          "command": "cd website && hugo server"
+        }
   ]
 }
