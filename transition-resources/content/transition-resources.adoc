@@ -1,6 +1,7 @@
 
 // Crisis Hotlines
-include::topics/crisis/hotlines.adoc[leveloffset=+1]
+include::topics/crisis/uk-hotlines.adoc[leveloffset=+1]
+include::topics/crisis/au-hotlines.adoc[leveloffset=+1]
 
 // Public Records
 include::topics/records/uk-public-record.adoc[leveloffset=+1]
