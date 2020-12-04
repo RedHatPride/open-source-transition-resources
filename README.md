@@ -17,7 +17,7 @@ If you want to download the latest version of the guide or view a version for yo
 
 ## Opensource Transition Resource Project
 
-The Opensource Transition Resource Guide is based off the modular docs project which is available on github.
+The Opensource Transition Resource Guide is built on the modular docs project which is available on github. The website uses Hugo and Asciidoc.
 
 https://redhat-documentation.github.io/modular-docs/
 
@@ -33,7 +33,7 @@ To help the LGBTQ+ community become more agile with creating documentation. This
 
 ## Any Suggestions or Questions?
 
-Please submit an [issue](https://github.com/AshtonDavis/open-source-transition-resources/issues) to this project.
+Please submit an [issue](https://github.com/AshtonDavis/open-source-transition-resources/issues) to this project. Any issues will be picked up and integrated into the guide. If you would like to contribute more directly, check out our guide on how to https://github.com/AshtonDavis/open-source-transition-resources/blob/main/transition-resources/content/topics/contributing.adoc[contribute].
 
 ## Directory Structure
 
