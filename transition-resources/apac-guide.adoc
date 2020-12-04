@@ -9,8 +9,7 @@ include::content/topics/introduction.adoc[leveloffset=+1]
 // Crisis Hotlines
 include::content/topics/crisis/au-hotlines.adoc[leveloffset=+1]
 
-// Health Care
-== Online Voice Training Resources
+== Health Care
 include::content/topics/health/vocal/online-vocal.adoc[leveloffset=+1]
 
 // Changing your name

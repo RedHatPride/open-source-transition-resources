@@ -1,7 +1,7 @@
-[id="us-healthcare-hair-removal"]
-= Cosmetic
+[id="us-healthcare-cosmetic"]
+== Cosmetic
 
-= US Hair Removal
+=== US Hair Removal
 
 UNC Aesthetics Clinic – The aesthetic clinic offers laser hair removal treatments, and specifically offers a lower cost option for the 6 laser hair removal treatments needed before surgery. Phone: (984) 215-6350. Please note that the clinic is temporarily closed due to COVID-19, however we can still place a referral for when they re-open.
 
