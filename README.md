@@ -33,7 +33,7 @@ To help the LGBTQ+ community become more agile with creating documentation. This
 
 ## Any Suggestions or Questions?
 
-Please submit an [issue](https://github.com/AshtonDavis/open-source-transition-resources/issues) to this project. Any issues will be picked up and integrated into the guide. If you would like to contribute more directly, check out our guide on how to https://github.com/AshtonDavis/open-source-transition-resources/blob/main/transition-resources/content/topics/contributing.adoc[contribute].
+Please submit an [issue](https://github.com/AshtonDavis/open-source-transition-resources/issues) to this project.
 
 ## Directory Structure
 
