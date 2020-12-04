@@ -1,5 +1,5 @@
 [id="book"]
-= APAC Opensource Transition Resources
+= APAC Opensource Gender Transition Resources
 // The index.adoc file for The Opensource Transition Resources
 
 include::common-content/attributes.adoc[]
