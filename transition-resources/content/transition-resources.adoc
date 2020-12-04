@@ -1,4 +1,7 @@
 
+// About
+include::topics/about.adoc[leveloffset=+1]
+
 == Crisis Hotlines
 include::topics/crisis/intro.adoc[leveloffset=+2]
 include::topics/crisis/us-hotlines.adoc[leveloffset=+2]
