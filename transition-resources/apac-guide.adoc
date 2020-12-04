@@ -6,19 +6,11 @@ include::common-content/attributes.adoc[]
 
 include::content/topics/introduction.adoc[leveloffset=+1]
 
-== Crisis Hotlines
+// Crisis Hotlines
+include::content/topics/crisis/au-hotlines.adoc[leveloffset=+1]
 
-== Employment
-
-== Financial
-
-== Health
-
-== Housing
-
-== Legal
-
-== Records
+// Changing your name
+include::content/topics/records/au-public-record.adoc[leveloffset=+1]
 
 == Social Media
 

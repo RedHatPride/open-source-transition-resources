@@ -1,6 +1,6 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "OpenSource Transition Resources Guide"
+title         = "Gender Transition Resources Guide"
 theme         = "roxo"
 summarylength = 25
 
@@ -51,7 +51,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "OpenSource Transition Resource Guide"
+    heading               = "Gender Transition Resources Guide"
     tagline               = "Information for transgender and non-binary folk."
     primary_button        = "Online"
     primary_button_url    = "/guide/html/"
