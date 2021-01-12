@@ -35,8 +35,8 @@ summarylength = 25
   # Meta data
   description = "OpenSource list of transition resources"
   author = "Allie DeVolder"
-  # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  # Google Analytics
+  googleAnalyticsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/myykjpje"
 
