@@ -6,9 +6,9 @@ A 24/7 hotline available in the U.S. and Canada staffed by transgender people fo
 
 Contact information:
 United States
-1-877-565-8860
+tel:+1-877-565-8860[1-877-565-8860]
 Available 24/7
 
 Canada
-1-877-330-6366
+tel:+1-877-330-6366[1-877-330-6366]
 Available 24/7
