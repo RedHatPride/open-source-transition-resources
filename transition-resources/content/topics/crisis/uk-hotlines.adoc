@@ -5,7 +5,7 @@
 If you are thinking about suicide and in need of immediate support.
 
 === Trevor Lifeline
-1-866-488-7386
+tel:+1-866-488-7386[1-866-488-7386]
 Available 24/7
 Free
 
@@ -16,7 +16,7 @@ Standard messaging rates apply
 === TrevorChat
 Enter the online portal on The Trevor Project’s website
 Available 24/7
-Free please call the TrevorLifeline at 1-866-488-7386 or https://www.thetrevorproject.org/get-help-now/[chat]
+Free please call the TrevorLifeline at tel:+1-866-488-7386[1-866-488-7386] or https://www.thetrevorproject.org/get-help-now/[chat]
 
 == https://thrivelifeline.org/index.html[THRIVE Lifeline]
 If you’re experiencing a mental health crisis and need to chat with a qualified LGBTQIA+ crisis responder, our partners at THRIVE Lifeline are here for you.
@@ -24,7 +24,8 @@ If you’re experiencing a mental health crisis and need to chat with a qualifie
 THRIVE Lifeline’s experienced suicide interveners partner with oSTEM to help keep you safe during times of acute mental health crises. If you are not in an acute crisis, but are dealing with stress as you navigate identity, orientation, or barriers to academic and professional entry, THRIVE can help! Together, we are here to support your whole-self and we’re happy to help you during these troubling times.
 
 Contact Information:
-+1 (313) 662-8209
+tel:+1-313-662-8209[+1 (313) 662-8209]
+
 
 Available 24/7, Must be 18 years or older
 
@@ -33,7 +34,7 @@ SAGE LGBT Elder Hotline. Older LGBT people who want to talk can be connected wit
 
 Contact information:
 Toll Free
-877-360-LGBT (5428)
+tel:+1-877-360-5428[1-877-360-LGBT (5428)]
 Available 24/7
 
 = Ireland
