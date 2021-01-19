@@ -1,4 +1,4 @@
 [id="redhat"]
 = Red Hat
 
-For transition-related information at Red Hat, see [this page on Mojo](https://mojo.redhat.com/docs/DOC-1223041).
+For transition-related information at Red Hat, see [this page on The Source](https://source.redhat.com/communitiesatredhat/diversity_and_inclusion/pride/red_hat_pride_wiki/red_hat_transition_resource_list).
