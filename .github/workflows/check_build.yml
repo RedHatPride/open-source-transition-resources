@@ -1,0 +1,11 @@
+name: Check website build
+on: [push, pull_request]
+jobs:
+  check-podman:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Build the container
+        run: |
+          podman build .
