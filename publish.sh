@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 REGIONS="uk apac"
-OPTIONS=
+OPTIONS="-l $PWD/library -r tel-inline-macro"
 
 asciidoctor $OPTIONS transition-resources/index.adoc -D website/static/guide/html -o index.html
 # Build the PDFs
