@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
 #
-asciidoctor transition-resources/index.adoc -D website/static/guide/html -o index.html
+REGIONS="uk apac"
+OPTIONS="-l $PWD/library -r tel-inline-macro"
 
+asciidoctor $OPTIONS transition-resources/index.adoc -D website/static/guide/html -o index.html
 # Build the PDFs
-asciidoctor-pdf transition-resources/index.adoc -D website/static/guide/pdf -o transgender-resources.pdf
-asciidoctor-pdf transition-resources/uk-guide.adoc -D website/static/guide/pdf -o uk-transgender-resources.pdf
-asciidoctor-pdf transition-resources/apac-guide.adoc -D website/static/guide/pdf -o apac-transgender-resources.pdf
+for dest in website/static/guide/pdf releases ; do 
+    asciidoctor-pdf $OPTIONS transition-resources/index.adoc -D $dest -o transgender-resources.pdf
+    for g in $REGIONS; do
+       asciidoctor-pdf $OPTIONS transition-resources/${g}-guide.adoc -D $dest -o ${g}-transgender-resources.pdf
+    done
+done
 
-# Rebuild them for the releases folder
-asciidoctor-pdf transition-resources/index.adoc -D releases -o transgender-resources.pdf
-asciidoctor-pdf transition-resources/uk-guide.adoc -D releases -o uk-transgender-resources.pdf
-asciidoctor-pdf transition-resources/apac-guide.adoc -D releases -o apac-transgender-resources.pdf
