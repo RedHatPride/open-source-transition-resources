@@ -17,7 +17,7 @@ If you want to download the latest version of the guide or view a version for yo
 
 ## Opensource Transition Resource Project
 
-The Opensource Transition Resource Guide is built on the modular docs project which is available on github. The website uses Hugo and Asciidoc.
+The Opensource Transition Resource Guide is built on the modular docs project which is available on github.
 
 https://redhat-documentation.github.io/modular-docs/
 
